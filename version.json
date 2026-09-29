@@ -1,10 +1,10 @@
 {
-    "version_code":  660000001,
-    "windows_download_url":  "https://github.com/divyanshunaugriya/IRS_GCS_App_Releases/releases/download/v1.0.1/Alex_GCS_Setup.exe",
-    "mandatory":  false,
-    "app_name":  "IRS Alex GCS",
-    "release_date":  "2026-09-29",
-    "apk_download_url":  "https://github.com/divyanshunaugriya/IRS_GCS_App_Releases/releases/download/v1.0.1/IRS_Alex_GCS_signed.apk",
-    "changelog":  "Official Release v1.0.1:\n- Online operator authentication\n- Hardware unique ID device binding\n- 100% Offline field operations support\n- Performance and UI enhancements",
-    "version_name":  "1.0.1"
+    "app_name": "IRS Alex GCS",
+    "version_code": 660000002,
+    "version_name": "1.0.2",
+    "release_date": "2026-09-29",
+    "apk_download_url": "https://github.com/divyanshunaugriya/IRS_GCS_App_Releases/releases/download/v1.0.1/IRS_Alex_GCS_signed.apk",
+    "windows_download_url": "https://github.com/divyanshunaugriya/IRS_GCS_App_Releases/releases/download/v1.0.1/Alex_GCS_Setup.exe",
+    "mandatory": false,
+    "changelog": "Critical Update v1.0.2:\n- Fixed Online Operator Registration (Bad credentials error resolved)\n- Fixed Android QML startup crash\n- Added In-App OTA Update notification & 1-click installer"
 }
